@@ -33,7 +33,7 @@ const Detail = ({ match }) => {
         })
       })
   }
-  const { name, sprites, img } = pokemon
+  const { name, img } = pokemon
   return (
     <>
       <h1>Detalle Pokemon</h1>
