@@ -2,7 +2,6 @@ import Detail from './pages/Detail'
 import Pokemons from './pages/Pokemons'
 import {
   BrowserRouter as Router,
-  Link,
   Route,
   Switch
 } from 'react-router-dom'
